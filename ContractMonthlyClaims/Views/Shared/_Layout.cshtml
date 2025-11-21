@@ -1,0 +1,73 @@
+﻿@using Microsoft.AspNetCore.Http
+@{
+    var username = Context.Session.GetString("Username");
+    var role = Context.Session.GetString("Role");
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>ContractMonthlyClaims</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+    <style>
+        body {
+            background-color: pink !important;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-4">
+        <div class="container">
+
+            <a class="navbar-brand" href="/">ContractMonthlyClaims</a>
+
+            <div class="collapse navbar-collapse">
+                <ul class="navbar-nav me-auto">
+
+                    @if (username != null)
+                    {
+                        if (role == "Lecturer")
+                        {
+                            <li class="nav-item"><a class="nav-link" href="/Home/Lecturer">My Claims</a></li>
+                            <li class="nav-item"><a class="nav-link" href="/Home/CreateClaim">Submit Claim</a></li>
+                        }
+                        else if (role == "Coordinator")
+                        {
+                            <li class="nav-item"><a class="nav-link" href="/Home/Coordinator">Pending Claims</a></li>
+                        }
+                        else if (role == "Manager")
+                        {
+                            <li class="nav-item"><a class="nav-link" href="/Home/Manager">Pending Claims</a></li>
+                        }
+                        else if (role == "HR")
+                        {
+                            <li class="nav-item"><a class="nav-link" href="/HR/Index">Manage Users</a></li>
+                        }
+                    }
+
+                </ul>
+
+                <ul class="navbar-nav ms-auto">
+                    @if (username != null)
+                    {
+                        <li class="nav-item"><span class="navbar-text text-white me-3">Logged in as @username (@role)</span></li>
+                        <li class="nav-item"><a class="btn btn-danger" href="/Account/Logout">Logout</a></li>
+                    }
+                    else
+                    {
+                        <li class="nav-item"><a class="btn btn-success" href="/Account/Login">Login</a></li>
+                    }
+                </ul>
+            </div>
+
+        </div>
+    </nav>
+
+    <div class="container">
+        @RenderBody()
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,131 @@
+﻿@model ContractMonthlyClaims.Models.Claim
+
+@{
+    Layout = "_Layout";
+    var rate = ViewBag.HourlyRate;
+    var name = ViewBag.UserFullName;
+}
+
+<h2>Submit Claim</h2>
+<hr />
+
+<h4>Lecturer: @name</h4>
+<h4>Hourly Rate: R @rate</h4>
+
+<form method="post" asp-action="CreateClaim" enctype="multipart/form-data">
+
+    @if (!ViewData.ModelState.IsValid)
+    {
+        <div class="alert alert-danger">Please fix validation errors.</div>
+    }
+
+    <div class="mb-3">
+        <label>Month</label>
+        <input class="form-control" type="number" min="1" max="12" name="Month" required />
+    </div>
+
+    <div class="mb-3">
+        <label>Year</label>
+        <input class="form-control" type="number" name="Year" required />
+    </div>
+
+    <h4>Claim Items</h4>
+
+    <table class="table" id="itemsTable">
+        <thead>
+            <tr>
+                <th>Description</th>
+                <th>Hours</th>
+                <th>Amount (auto)</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+
+    <button type="button" class="btn btn-secondary mb-3" onclick="addItem()">Add Item</button>
+
+    <div class="mb-3">
+        <label>Upload Documents</label>
+        <input class="form-control" type="file" name="documents" multiple />
+    </div>
+
+    <button class="btn btn-primary">Submit Claim</button>
+
+</form>
+
+<!-- Hidden field to store the hourly rate for JavaScript -->
+<input type="hidden" id="hourlyRate" value="@rate" />
+
+<script>
+    let itemCount = 0;
+
+    function addItem() {
+        let table = document.querySelector("#itemsTable tbody");
+        let rate = parseFloat(document.getElementById('hourlyRate').value);
+
+        let row = `
+        <tr>
+            <td><input name="claimItems[${itemCount}].Description" class="form-control" required /></td>
+            <td><input name="claimItems[${itemCount}].Hours" class="form-control hours" type="number" min="0" step="0.1" required /></td>
+            <td><input class="form-control amount" readonly /></td>
+            <td><button type="button" class="btn btn-danger" onclick="this.parentElement.parentElement.remove(); updateTotal();">X</button></td>
+        </tr>
+        `;
+        table.insertAdjacentHTML("beforeend", row);
+
+        // Add event listener to the new hours input
+        const newHoursInput = table.lastElementChild.querySelector('.hours');
+        newHoursInput.addEventListener('input', function() {
+            updateAmount(this, rate);
+            updateTotal();
+        });
+
+        itemCount++;
+        updateEvents();
+    }
+
+    function updateAmount(hoursInput, rate) {
+        let hours = parseFloat(hoursInput.value) || 0;
+        let amountBox = hoursInput.closest("tr").querySelector(".amount");
+        amountBox.value = hours > 0 ? "R " + (hours * rate).toFixed(2) : "";
+    }
+
+    function updateEvents() {
+        let rate = parseFloat(document.getElementById('hourlyRate').value);
+        document.querySelectorAll(".hours").forEach(h => {
+            h.addEventListener("input", function () {
+                let hours = parseFloat(this.value) || 0;
+                let amountBox = this.closest("tr").querySelector(".amount");
+                amountBox.value = hours > 0 ? "R " + (hours * rate).toFixed(2) : "";
+                updateTotal();
+            });
+        });
+    }
+
+    function updateTotal() {
+        let totalHours = 0;
+        let totalAmount = 0;
+        let rate = parseFloat(document.getElementById('hourlyRate').value);
+
+        document.querySelectorAll(".hours").forEach(h => {
+            let hours = parseFloat(h.value) || 0;
+            totalHours += hours;
+        });
+
+        totalAmount = totalHours * rate;
+
+        // You can display totals somewhere if needed
+        console.log("Total Hours:", totalHours, "Total Amount: R", totalAmount.toFixed(2));
+
+        // Optional: Add validation for maximum hours
+        if (totalHours > 180) {
+            alert("Warning: Total hours exceed 180 hours per month!");
+        }
+    }
+
+    // Initialize with one empty row when page loads
+    document.addEventListener('DOMContentLoaded', function() {
+        addItem();
+    });
+</script>

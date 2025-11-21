@@ -1,0 +1,27 @@
+﻿@model IEnumerable<ContractMonthlyClaims.Models.User>
+@{
+    ViewData["Title"] = "HR - Users";
+}
+<h3>HR - Users</h3>
+<p><a class="btn btn-sm btn-success" asp-action="Create">Create user</a></p>
+<table class="table table-striped">
+    <thead><tr><th>Username</th><th>Role</th><th>Name</th><th>Email</th><th>Hourly rate</th><th></th></tr></thead>
+    <tbody>
+        @foreach (var u in Model)
+        {
+            <tr>
+                <td>@u.Username</td>
+                <td>@u.Role</td>
+                <td>@u.FirstName @u.LastName</td>
+                <td>@u.Email</td>
+                <td>@u.HourlyRate</td>
+                <td>
+                    <a class="btn btn-sm btn-primary" asp-action="Edit" asp-route-id="@u.Id">Edit</a>
+                    <form method="post" asp-action="Delete" asp-route-id="@u.Id" style="display:inline">
+                        <button class="btn btn-sm btn-danger" onclick="return confirm('Delete user?')">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

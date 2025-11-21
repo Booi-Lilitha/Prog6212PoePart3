@@ -1,0 +1,49 @@
+﻿@{
+    Layout = "_Layout";
+}
+
+<h2>Welcome to CMCS</h2>
+
+<p>Please use the navigation menu to continue.</p>
+
+@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="text-center">
+    <h1 class="display-4 mb-4">Contract Monthly Claim System</h1>
+    <p class="lead">Streamline your monthly contract claim submission and approval process</p>
+
+    <div class="row mt-5">
+        <div class="col-md-4 mb-4">
+            <div class="card h-100">
+                <div class="card-body text-center">
+                    <i class="fas fa-user-graduate fa-3x text-primary mb-3"></i>
+                    <h5 class="card-title">Lecturer Portal</h5>
+                    <p class="card-text">Submit monthly claims, upload supporting documents, and track claim status.</p>
+                    <a href="@Url.Action("Lecturer", "Home")" class="btn btn-primary">Access Portal</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="card h-100">
+                <div class="card-body text-center">
+                    <i class="fas fa-tasks fa-3x text-success mb-3"></i>
+                    <h5 class="card-title">Coordinator Portal</h5>
+                    <p class="card-text">Review and approve claims submitted by lecturers.</p>
+                    <a href="@Url.Action("Coordinator", "Home")" class="btn btn-success">Access Portal</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="card h-100">
+                <div class="card-body text-center">
+                    <i class="fas fa-clipboard-check fa-3x text-warning mb-3"></i>
+                    <h5 class="card-title">Manager Portal</h5>
+                    <p class="card-text">Final approval and oversight of all claims.</p>
+                    <a href="@Url.Action("Manager", "Home")" class="btn btn-warning">Access Portal</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,453 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\contractmonthlyclaims\\contractmonthlyclaims\\views\\home\\manager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|solutionrelative:contractmonthlyclaims\\views\\home\\manager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\contractmonthlyclaims\\contractmonthlyclaims\\views\\home\\coordinator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|solutionrelative:contractmonthlyclaims\\views\\home\\coordinator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\contractmonthlyclaims\\contractmonthlyclaims\\views\\hr\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|solutionrelative:contractmonthlyclaims\\views\\hr\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\contractmonthlyclaims\\contractmonthlyclaims\\views\\hr\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|solutionrelative:contractmonthlyclaims\\views\\hr\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\contractmonthlyclaims\\contractmonthlyclaims\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|solutionrelative:contractmonthlyclaims\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\contractmonthlyclaims\\contractmonthlyclaims\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|solutionrelative:contractmonthlyclaims\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\contractmonthlyclaims\\contractmonthlyclaims\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|solutionrelative:contractmonthlyclaims\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\contractmonthlyclaims\\contractmonthlyclaims\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|solutionrelative:contractmonthlyclaims\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\contractmonthlyclaims\\contractmonthlyclaims\\models\\claimitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|solutionrelative:contractmonthlyclaims\\models\\claimitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\contractmonthlyclaims\\contractmonthlyclaims\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|solutionrelative:contractmonthlyclaims\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\contractmonthlyclaims\\contractmonthlyclaims\\views\\home\\createclaim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|solutionrelative:contractmonthlyclaims\\views\\home\\createclaim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\contractmonthlyclaims\\contractmonthlyclaims\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|solutionrelative:contractmonthlyclaims\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\contractmonthlyclaims\\contractmonthlyclaims\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|solutionrelative:contractmonthlyclaims\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\contractmonthlyclaims\\contractmonthlyclaims\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|solutionrelative:contractmonthlyclaims\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\contractmonthlyclaims\\contractmonthlyclaims\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|solutionrelative:contractmonthlyclaims\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\contractmonthlyclaims\\contractmonthlyclaims\\data\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|solutionrelative:contractmonthlyclaims\\data\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\contractmonthlyclaims\\contractmonthlyclaims\\views\\home\\lecturer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|solutionrelative:contractmonthlyclaims\\views\\home\\lecturer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\contractmonthlyclaims\\contractmonthlyclaims\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|solutionrelative:contractmonthlyclaims\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\contractmonthlyclaims\\contractmonthlyclaims\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|solutionrelative:contractmonthlyclaims\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\contractmonthlyclaims\\contractmonthlyclaims\\controllers\\hrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|solutionrelative:contractmonthlyclaims\\controllers\\hrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\contractmonthlyclaims\\contractmonthlyclaims\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|solutionrelative:contractmonthlyclaims\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\contractmonthlyclaims\\contractmonthlyclaims\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|solutionrelative:contractmonthlyclaims\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\contractmonthlyclaims\\contractmonthlyclaims\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|solutionrelative:contractmonthlyclaims\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\contractmonthlyclaims\\contractmonthlyclaims\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|solutionrelative:contractmonthlyclaims\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\contractmonthlyclaims\\contractmonthlyclaims\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|solutionrelative:contractmonthlyclaims\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\contractmonthlyclaims\\contractmonthlyclaims\\contractmonthlyclaims.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5212C23B-9765-4C9A-B7CE-22A4AF9B74CC}|ContractMonthlyClaims\\ContractMonthlyClaims.csproj|solutionrelative:contractmonthlyclaims\\contractmonthlyclaims.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Views\\HR\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ContractMonthlyClaims\\Views\\HR\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Views\\HR\\Edit.cshtml",
+              "RelativeToolTip": "ContractMonthlyClaims\\Views\\HR\\Edit.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvzEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T20:49:06.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Views\\HR\\Create.cshtml",
+              "RelativeDocumentMoniker": "ContractMonthlyClaims\\Views\\HR\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Views\\HR\\Create.cshtml",
+              "RelativeToolTip": "ContractMonthlyClaims\\Views\\HR\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T20:45:17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ContractMonthlyClaims\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\appsettings.Development.json",
+              "RelativeToolTip": "ContractMonthlyClaims\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-21T18:33:16.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Manager.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Views\\Home\\Manager.cshtml",
+              "RelativeDocumentMoniker": "ContractMonthlyClaims\\Views\\Home\\Manager.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Views\\Home\\Manager.cshtml",
+              "RelativeToolTip": "ContractMonthlyClaims\\Views\\Home\\Manager.cshtml",
+              "ViewState": "AgIAABkAAACAZmZmZuYfwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T13:40:14.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Coordinator.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Views\\Home\\Coordinator.cshtml",
+              "RelativeDocumentMoniker": "ContractMonthlyClaims\\Views\\Home\\Coordinator.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Views\\Home\\Coordinator.cshtml",
+              "RelativeToolTip": "ContractMonthlyClaims\\Views\\Home\\Coordinator.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAUwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T13:38:45.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Lecturer.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Views\\Home\\Lecturer.cshtml",
+              "RelativeDocumentMoniker": "ContractMonthlyClaims\\Views\\Home\\Lecturer.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Views\\Home\\Lecturer.cshtml",
+              "RelativeToolTip": "ContractMonthlyClaims\\Views\\Home\\Lecturer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T13:37:17.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Program.cs",
+              "RelativeDocumentMoniker": "ContractMonthlyClaims\\Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Program.cs",
+              "RelativeToolTip": "ContractMonthlyClaims\\Program.cs",
+              "ViewState": "AgIAAAMAAABQZmZmZiYgwBoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T23:38:19.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Claim.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Models\\Claim.cs",
+              "RelativeDocumentMoniker": "ContractMonthlyClaims\\Models\\Claim.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Models\\Claim.cs",
+              "RelativeToolTip": "ContractMonthlyClaims\\Models\\Claim.cs",
+              "ViewState": "AgIAAB0AAADAz8zMzEwmwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T21:34:24.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ContractMonthlyClaims\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "ContractMonthlyClaims\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAoAAACABAAAAIAUwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T21:28:01.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ContractMonthlyClaims\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ContractMonthlyClaims\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAzszMzMwFwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T23:05:39.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ContractMonthlyClaims\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ContractMonthlyClaims\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAkAAADAZmZmZiYgwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-21T18:37:33.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateClaim.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Views\\Home\\CreateClaim.cshtml",
+              "RelativeDocumentMoniker": "ContractMonthlyClaims\\Views\\Home\\CreateClaim.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Views\\Home\\CreateClaim.cshtml",
+              "RelativeToolTip": "ContractMonthlyClaims\\Views\\Home\\CreateClaim.cshtml",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAswIIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T13:38:02.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ContractMonthlyClaims\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ContractMonthlyClaims\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAD8AAAAAaGZmZuYXwEwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T21:24:06.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClaimItem.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Models\\ClaimItem.cs",
+              "RelativeDocumentMoniker": "ContractMonthlyClaims\\Models\\ClaimItem.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Models\\ClaimItem.cs",
+              "RelativeToolTip": "ContractMonthlyClaims\\Models\\ClaimItem.cs",
+              "ViewState": "AgIAABAAAACgmZmZmXk9wBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T12:46:54.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContractMonthlyClaims\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ContractMonthlyClaims\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T17:51:55.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ContractMonthlyClaims\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ContractMonthlyClaims\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T15:51:15.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Data\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "ContractMonthlyClaims\\Data\\DataSeeder.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Data\\DataSeeder.cs",
+              "RelativeToolTip": "ContractMonthlyClaims\\Data\\DataSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T22:58:45.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\appsettings.json",
+              "RelativeDocumentMoniker": "ContractMonthlyClaims\\appsettings.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\appsettings.json",
+              "RelativeToolTip": "ContractMonthlyClaims\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-19T23:39:18.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ContractMonthlyClaims\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "ContractMonthlyClaims\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T13:28:08.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HRController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Controllers\\HRController.cs",
+              "RelativeDocumentMoniker": "ContractMonthlyClaims\\Controllers\\HRController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Controllers\\HRController.cs",
+              "RelativeToolTip": "ContractMonthlyClaims\\Controllers\\HRController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAADwv0QAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T21:26:25.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ContractMonthlyClaims\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ContractMonthlyClaims\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvywAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T21:38:27.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Models\\Document.cs",
+              "RelativeDocumentMoniker": "ContractMonthlyClaims\\Models\\Document.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Models\\Document.cs",
+              "RelativeToolTip": "ContractMonthlyClaims\\Models\\Document.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T12:48:11.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ContractMonthlyClaims\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Models\\User.cs",
+              "RelativeToolTip": "ContractMonthlyClaims\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T21:32:55.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "ContractMonthlyClaims\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Models\\Role.cs",
+              "RelativeToolTip": "ContractMonthlyClaims\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T00:01:37.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ContractMonthlyClaims\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ContractMonthlyClaims\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T00:01:24.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ContractMonthlyClaims.csproj",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\ContractMonthlyClaims.csproj",
+              "RelativeDocumentMoniker": "ContractMonthlyClaims\\ContractMonthlyClaims.csproj",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ContractMonthlyClaims\\ContractMonthlyClaims\\ContractMonthlyClaims.csproj",
+              "RelativeToolTip": "ContractMonthlyClaims\\ContractMonthlyClaims.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-20T00:27:00.803Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

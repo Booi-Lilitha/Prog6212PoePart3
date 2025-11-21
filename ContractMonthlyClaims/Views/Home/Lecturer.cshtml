@@ -1,0 +1,36 @@
+﻿@model List<ContractMonthlyClaims.Models.Claim>
+
+@{
+    Layout = "_Layout";
+}
+
+<h2>My Claims</h2>
+<hr />
+
+<a href="/Home/CreateClaim" class="btn btn-success mb-3">Submit New Claim</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Month</th>
+            <th>Year</th>
+            <th>Total Hours</th>
+            <th>Amount</th>
+            <th>Status</th>
+            <th>Submitted</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var c in Model)
+        {
+            <tr>
+                <td>@c.Month</td>
+                <td>@c.Year</td>
+                <td>@c.Hours</td>
+                <td>R @c.Amount</td>
+                <td>@c.Status</td>
+                <td>@c.SubmitDate.ToShortDateString()</td>
+            </tr>
+        }
+    </tbody>
+</table>
