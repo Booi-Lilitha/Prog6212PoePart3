@@ -149,7 +149,7 @@ ContractMonthlyClaims/
    Or press F5 in Visual Studio
 
 5. **Access the Application**
-   - Open: `https://localhost:7000`
+   - Open: `(https://localhost:7228/)`
    - Use default credentials (see below)
 
 ## 🔑 Default Login Credentials
