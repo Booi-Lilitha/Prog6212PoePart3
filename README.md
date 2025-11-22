@@ -160,7 +160,7 @@ After first run, use these test accounts:
 |------|----------|----------|---------|
 | HR | `hradmin` | `admin123` | Full system access |
 | Lecturer | `lect1` | `lect2` | `Pass123!` | Claim submission |
-| Coordinator | `coordinator@cmc.com` | `Pass123!` | First approval |
+| Coordinator | `coordi1` | `Pass123!` | First approval |
 | Manager | `man1` | `Pass123!` | Final approval |
 
 ## 📝 Usage Guide
